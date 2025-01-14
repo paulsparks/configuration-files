@@ -1,3 +1,2 @@
 # copy alias
 alias copy="xclip -sel clip"
-

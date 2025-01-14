@@ -7,4 +7,3 @@ if [ -f $HOME/.bashrc_prefs ]; then
   . $HOME/.bashrc_prefs
 fi
 ```
-
