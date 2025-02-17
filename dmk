@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "[Desktop Entry]
+Version=1.0
+Type=Application
+Name=$1
+Exec=$1" > /usr/share/applications/$1.desktop
