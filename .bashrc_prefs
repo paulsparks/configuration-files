@@ -1,2 +1,5 @@
 # copy alias
 alias copy="xclip -sel clip"
+
+alias code="/bin/code --enable-features=UseOzonePlatform --ozone-platform=wayland"
+alias godot="godot --display-driver wayland"
